@@ -13,7 +13,7 @@ const Hero = () => (
       </SectionTitle>
 
       <SectionText>
-        lorem ipsum dolor sit amet, consectetur adipiscing elit
+        This page is still a work in progress but feel free to look around
       </SectionText>
       <Button onClick = {() => window.location = 'mailto:kwadwoasamoa7@gmail.com'}>Let's Talk</Button>
     </LeftSection>
